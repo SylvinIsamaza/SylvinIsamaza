@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sylvain</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sylvinisamaza&label=Profile%20views&color=0e75b6&style=flat" alt="sylvinisamaza" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sylvinisamaza" alt="sylvinisamaza" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/isylvin" target="blank"><img src="https://img.shields.io/twitter/follow/isylvin?logo=twitter&style=for-the-badge" alt="isylvin" /></a> </p>
 
