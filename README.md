@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/isylvin" target="blank"><img src="https://img.shields.io/twitter/follow/isylvin?logo=twitter&style=for-the-badge" alt="isylvin" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portifolio-w4jr.vercel.app/](https://portifolio-w4jr.vercel.app/)
 
-- 💬 Ask me about **react,Node,Django,Javascript,Python,Flask**
+
+- 💬 Ask me about **react,Node,Django,Javascript,Python,Flask,Laravel**
 
 - 📫 How to reach me **isamazasylvin@gmail.com*
 
