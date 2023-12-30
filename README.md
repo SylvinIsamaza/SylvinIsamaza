@@ -6,7 +6,7 @@
 
 
 
-- 💬 Ask me about **react,Node,Django,Javascript,Python,Flask,Laravel,Typescript**
+- 💬 Ask me about **react,Node,Django,Next,Javascript,Python,Flask,Laravel,Typescript**
 
 - 📫 How to reach me **isamazasylvin@gmail.com*
 
