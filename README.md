@@ -43,7 +43,7 @@ My experience spans across **frontend frameworks**, **backend APIs**, **database
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sylvinisamaza&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sylvinisamaza" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sylvinisamaza&theme=tokyonight" alt="sylvinisamaza" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SylvinIsamaza&theme=tokyonight" alt="SylvinIsamaza" /></p>
 
 <br clear="both">
 
