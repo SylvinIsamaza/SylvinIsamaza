@@ -1,14 +1,20 @@
 <h1 align="center">Hi 👋, I'm ISAMAZA Sylvain</h1>
+<h3 align="center">💻 Full-Stack Developer | Mobile & Web Engineer | Tech Enthusiast</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sylvinisamaza&label=Profile%20views&color=0e75b6&style=flat" alt="sylvinisamaza" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/isylvin" target="blank"><img src="https://img.shields.io/twitter/follow/isylvin?logo=twitter&style=for-the-badge" alt="isylvin" /></a> </p>
+### 🚀 About Me  
+I’m a **passionate and detail-oriented Software Engineer** specializing in **modern full-stack, mobile, and cloud-based development**.  
+I love building **scalable applications**, crafting **clean user experiences**, and integrating **efficient backend systems**.  
 
+My experience spans across **frontend frameworks**, **backend APIs**, **database systems**, and **DevOps automation** — allowing me to take an idea from concept to production with performance and maintainability in mind.  
 
-
-- 💬 Ask me about **react,Node,Django,Next,Javascript,Python,Flask,Laravel,Typescript,React Native,Flutter**
-
-- 📫 How to reach me **isamazasylvin@gmail.com*
+- 🌱 I’m currently exploring **advanced DevOps, system architecture, and AI integration**  
+- 💬 Ask me about **React, Next.js, Node.js, Express.js, Django, Flask, Laravel, Python, TypeScript, JavaScript, React Native, Expo, Flutter, PostgreSQL, MongoDB, Docker, Nginx, Redis, GraphQL, REST APIs, CI/CD, Cloud Deployment (AWS, Render, Railway, Vercel), Microservices, System Design, UI/UX Design, Tailwind CSS, and Testing (Jest, Cypress)**  
+- ⚙️ I enjoy working with **teams that value innovation, performance, and clean code**  
+- 📫 Reach me at: **isamazasylvin@gmail.com**  
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +32,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sylvinisamaza&show_icons=true&locale=en&layout=compact" alt="sylvinisamaza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sylvinisamaza&" alt="sylvinisamaza" /></
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sylvinisamaza&" alt="sylvinisamaza" /></p>
+<img src="https://raw.githubusercontent.com/SylvinIsamaza/SylvinIsamaza/output/snake.svg" alt="Snake animation" />
